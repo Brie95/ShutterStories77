@@ -1,9 +1,11 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: "---\r\nShutterStories77\r\n---"
 ---
 ## The index page
+# Welcome to ShutterStories77
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+This knowledge base explores my photography journey — from camera gear to editing techniques and creative storytelling.
+
 
 ## Editing pages
 
