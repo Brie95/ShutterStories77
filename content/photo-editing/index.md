@@ -1,5 +1,5 @@
 ---
-title: A second example doc inside a folder
+title: "---\r\nPhoto Editing\r\n---"
 ---
 This is an example doc. Docs are Markdown files inside the `content/` directory.
 
