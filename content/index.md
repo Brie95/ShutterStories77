@@ -1,14 +1,12 @@
-
 ---
 title: ShutterStories77
 ---
-
-
 
 # Welcome to ShutterStories77
 
 This knowledge base explores my photography journey — from camera gear to editing techniques and creative storytelling.
 
+The Quartz deployment has been refreshed.
 
 ## Main Categories
 
